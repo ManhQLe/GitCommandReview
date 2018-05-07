@@ -8,5 +8,6 @@ namespace Demo
 {
 	class ClassOfBranch1
 	{
+		public int MasterFix { get; set; }
 	}
 }
