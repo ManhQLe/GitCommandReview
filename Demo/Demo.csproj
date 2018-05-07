@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClassOfBranch1.cs" />
+    <Compile Include="ClassOfBugFix.cs" />
     <Compile Include="ClassOfMaster.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
