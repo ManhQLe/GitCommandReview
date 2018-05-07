@@ -8,5 +8,6 @@ namespace Demo
 {
 	class ClassOfMaster
 	{
+		public string BugName { get; set; }
 	}
 }
