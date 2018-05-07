@@ -8,6 +8,7 @@ namespace Demo
 {
 	class ClassOfBranch1
 	{
+		public int FixTheBugForThis { get; set; }
 		public int MasterFix { get; set; }
 	}
 }

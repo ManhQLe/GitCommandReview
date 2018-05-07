@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demo
 {
-	class ClassOfMaster
+	public class ClassOfBugFix
 	{
-		public string BugName { get; set; }
 	}
 }
